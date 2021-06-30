@@ -2,6 +2,16 @@
 Modification for WWE Day of Reckoning
 Please download just the Zip, downloading the whole commit will cause issues
 
+##
+Github: https://github.com/mileswross/Forbidd...
+Discord: https://discord.gg/4SBv8XsNRP
+Twitch: https://www.twitch.tv/theforbiddendor
+Youtube: https://www.youtube.com/c/TheForbiddenDoR
+
+## Known Issues
+    -Enrances seem to be incorrect for a lot of wrestlers, please not any you fine in the Discord
+    -Hardcore matches throw up an error after winning
+
 ## Patch Includes!
 ## -New Stages
     -Smackdown (Climbable Fist)
