@@ -2,7 +2,10 @@
 Modification for WWE Day of Reckoning
 Please download just the Zip, downloading the whole commit will cause issues
 
-##
+# Mediafire Backup
+https://www.mediafire.com/file/ezq81hl0a656dx8/Forbidden+DoR+V1.0.zip/file
+
+## Links
 Github: https://github.com/mileswross/Forbidd...
 Discord: https://discord.gg/4SBv8XsNRP
 Twitch: https://www.twitch.tv/theforbiddendor
