@@ -1,5 +1,6 @@
 # Forbidden-DoR
 Modification for WWE Day of Reckoning
+Please download just the Zip, downloading the whole commit will cause issues
 
 ## Patch Includes!
 ## -New Stages
