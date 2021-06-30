@@ -26,3 +26,8 @@ Modification for WWE Day of Reckoning
     -Locked Arenas, Wrestlers and Weapons are unlocked by default
     -Wrestler select screen is now alphabetized
     -Game ID changed, saves will need to be converted to work on new build
+    -Removed Baldo Bloom
+    
+## -Installation
+Open the windows folder and drag your clean WWE Day of Reckoning (USA) (v1.00).iso onto the Batch file.
+Linux/Mac will need to use Xdelta manually to patch for now
