@@ -2,8 +2,11 @@
 Modification for WWE Day of Reckoning
 Please download just the Zip, downloading the whole commit will cause issues
 
-# Mediafire Backup
-https://www.mediafire.com/file/ezq81hl0a656dx8/Forbidden+DoR+V1.0.zip/file
+# Mediafire Backup V1.1 update
+    https://www.mediafire.com/file/wkj25xyfsl3pqdf/Forbidden_DoR_Beta_1.1.zip/file
+    Fixes entrance issues
+    Fixed tutorial issues
+    Added splash/startup Screen
 
 ## Links
     Github: https://github.com/mileswross/Forbidd...
