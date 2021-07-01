@@ -4,6 +4,7 @@ Please download just the Zip, downloading the whole commit will cause issues
 
 # Mediafire Backup V1.1 update
 https://www.mediafire.com/file/wkj25xyfsl3pqdf/Forbidden_DoR_Beta_1.1.zip/file
+## Changes
     Fixes entrance issues
     Fixed tutorial issues
     Added splash/startup Screen
