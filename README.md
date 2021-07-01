@@ -6,10 +6,10 @@ Please download just the Zip, downloading the whole commit will cause issues
 https://www.mediafire.com/file/ezq81hl0a656dx8/Forbidden+DoR+V1.0.zip/file
 
 ## Links
-Github: https://github.com/mileswross/Forbidd...
-Discord: https://discord.gg/4SBv8XsNRP
-Twitch: https://www.twitch.tv/theforbiddendor
-Youtube: https://www.youtube.com/c/TheForbiddenDoR
+    Github: https://github.com/mileswross/Forbidd...
+    Discord: https://discord.gg/4SBv8XsNRP
+    Twitch: https://www.twitch.tv/theforbiddendor
+    Youtube: https://www.youtube.com/c/TheForbiddenDoR
 
 ## Known Issues
     -Enrances seem to be incorrect for a lot of wrestlers, please not any you fine in the Discord
