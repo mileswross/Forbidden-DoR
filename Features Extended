@@ -1,0 +1,37 @@
+#New Wrestlers  
+•	Brock Lesnar
+•	Stone Cole Steve Austin
+•	Goldberg
+•	Scott Steiner
+•	Lita
+•	Bubba Ray Dudley
+•	D-Von Dudley
+•	Kane ('01 Attire)
+•	Undertaker (Big Evil)
+New wrestlers are all additions, no character has been removed (except the Bra and Panty alternate costumes). Due to extending the available roster the following characters cannot have their move sets amended in game (as the game doesn’t have a slot to save move set changes to).
+•	Garrison Cade
+•	Kane (unmasked)
+•	Greg Valentine
+•	Danny Basham
+Certain wrestlers may play the wrong themes when entering the Royal Rumble or when winning a match. All wrestlers will have the correct theme/video during entrances.
+#Game ID
+The game ID has been changed and thus will not be compatible with your normal saves. Will look into a solution soon.
+Out of the Ring
+A change included in the Forbidden DoR is the ability to throw your opponents out of the ring. There is still an invisible wall surrounding the ring, roughly knee high, any more that throws your opponent higher than this should clear the ring.
+Note: this feature is currently unavailable if you select TLC match in either of the Revenge stage imports (Mall and Warehouse).
+#Climbable Smackdown Fist
+The fist in the Smackdown arena is now climbable, simply hit climb on the left-hand side of the entrance way to begin climbing. Once you reach the fist hold right and hit run/climb to jump onto the fist.
+Note: The CPU doesn’t really understand this feature so as of writing they will not follow you.
+#Triple Cage
+This arena will work with any match type, no need to select Hell in a Cell. This means you can do ladder, TLC, Hardcore and have the arena active.
+The horizontal panels can be broken with a single Irish Whip, the vertical panels take 4 slams to break.
+Note: you may find yourself stuck on the announce table, if you find you can’t get down walk towards the audience and then try climbing down again. This will be fixed in a later version.
+#Ultimate X
+This arena can be selected with any match type but the only way to have the title in the middle grabbable is to select TLC or Ladder match.
+Note: CPU does not understand climbing the structure, they will at least play defence and carry on trying to grab the title with the ladder as normal.
+#Mall/Warehouse
+Playable as normal with any match type, the entire arena is interactable. The barricades can be destroyed with 3 strikes.
+#Referee Removed in Hardcore matches
+When selecting the Hardcore match type the referee will be replaced with “Omni Ref”, your falls will be counted automatically, similar to early N64/PS1 wrestling games.
+Note: Setting interference to on seems to break this feature, will hopefully be fixed in a later version.
+Note2: This will throw up an error at the end of the match as it tries to load the ref for the victory scene. This will crash on original hardware, will provide Gecko code to turn this feature off for Real Hardware users.
