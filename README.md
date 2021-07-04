@@ -6,10 +6,12 @@ Please download just the Zip, downloading the whole commit will cause issues
 
 # Mediafire Backup V1.1 update
 https://www.mediafire.com/file/wkj25xyfsl3pqdf/Forbidden_DoR_Beta_1.1.zip/file
-## Changes
-    Fixes entrance issues
-    Fixed tutorial issues
-    Added splash/startup Screen
+* Fixes entrance issues
+* Fixed tutorial issues
+* Added splash/startup Screen
+
+# No-Boy DMCA remover
+https://www.mediafire.com/file/piaynq0198ro0a8/No_Boy_-_DMCA_free_soundtrack_for_FDOR.zip/file
 
 ## Links
     Github: https://github.com/mileswross/Forbidd...
@@ -18,7 +20,6 @@ https://www.mediafire.com/file/wkj25xyfsl3pqdf/Forbidden_DoR_Beta_1.1.zip/file
     Youtube: https://www.youtube.com/c/TheForbiddenDoR
 
 ## Known Issues
-    -Enrances seem to be incorrect for a lot of wrestlers, please not any you fine in the Discord
     -Hardcore matches throw up an error after winning
 
 ## Patch Includes!
