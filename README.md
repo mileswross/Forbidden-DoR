@@ -30,7 +30,7 @@ https://www.mediafire.com/file/qrdy6kbpruh6t57/Forbidden_DoR_Beta_2.0.zip/file
   * Animations changed for rope interactions
 * Harbour From Hell
   * Raised height of the Championship
-[General]
+* General
   * WrestleMania x8 Dashing (↑↑ or ↓↓)
   * Weapons don't drop while climbing
 # Mediafire V1.2 update
