@@ -9,31 +9,30 @@ Please download just the Zip, downloading the whole commit will cause issues
 # Mediafire V2.0 update
 https://www.mediafire.com/file/qrdy6kbpruh6t57/Forbidden_DoR_Beta_2.0.zip/file
 
-*SmackDown!
-  *Raised height of the Championship
-  *Added Revenge Mode chains from the fist to the ring
-*Triple Cage
-  *Remade from the ground up
-  *Raised height of the Championship
-*Ultimate X
-  *Fixed an issue where two belts would appear
-* Shopping Mall
-  *Single Championship, can be grabbed from pole or ladder
-*Warehouse
-  *Single Championship, can be grabbed from pole or ladder
-*Shoot Fight Arena
-  *Weapons can now be picked up
-  *R/L now sidestep
-  *Y Forward dodge
-  *A+Y double leg
-*Barbed Wire Death Match
-  *Animations changed for rope interactions
-*Harbour From Hell
-  *Raised height of the Championship
+* SmackDown!
+  * Raised height of the Championship
+  * Added Revenge Mode chains from the fist to the ring
+* Triple Cage
+  * Remade from the ground up
+  * Raised height of the Championship
+* Ultimate X
+  * Fixed an issue where two belts would appear
+*  Shopping Mall
+  * Single Championship, can be grabbed from pole or ladder
+* Warehouse
+  * Single Championship, can be grabbed from pole or ladder
+* Shoot Fight Arena
+  * Weapons can now be picked up
+  * R/L now sidestep
+  * Y Forward dodge
+  * A+Y double leg
+* Barbed Wire Death Match
+  * Animations changed for rope interactions
+* Harbour From Hell
+  * Raised height of the Championship
 [General]
-  *WrestleMania x8 Dashing (↑↑ or ↓↓)
-  *Weapons don't drop while climbing
-  
+  * WrestleMania x8 Dashing (↑↑ or ↓↓)
+  * Weapons don't drop while climbing
 # Mediafire V1.2 update
 https://www.mediafire.com/file/duda3jfc36iq9nv/Forbidden_DoR_Beta_1.2.1.zip/file
 * Smackdown Fist
